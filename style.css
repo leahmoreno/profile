@@ -1,4 +1,15 @@
 body {
 	text-align:center;
-	font-size:2em;
+	font-family: 'Lobster', cursive;
+	color:black;
+	background-color:#ffbcd1;
+	background-image: url("background.jpeg");
+	background-position:center;
+	background-size:cover;
+	font-size:1.2em;
 }
+	#about {
+		/*CSS comment*/
+		color:#8337ce;
+		text-transform:uppercase;
+	}
