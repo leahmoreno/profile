@@ -1,16 +1,16 @@
 body {
 	text-align:center;
 	font-family: 'Lobster', cursive;
-	color:purple;
+	color:#fcff60;
 	background-color:#ffbcd1;
-	background-image: url("background.gif");
+	background-image: url("background.jpeg");
 	background-position:center;
 	background-size:cover;
 	font-size:1.2em;
 }
 	#about {
 		/*CSS comment*/
-		color:#8337ce;
+		color:#fcff60;
 		text-transform:uppercase;
 	}
 nav ul li {
